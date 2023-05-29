@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http//:mangeshPrajapati.github.io/codeEditor/static/css/main.2b94c69b.css",
+    "main.js": "/http//:mangeshPrajapati.github.io/codeEditor/static/js/main.43ba3183.js",
+    "static/js/787.da2546c4.chunk.js": "/http//:mangeshPrajapati.github.io/codeEditor/static/js/787.da2546c4.chunk.js",
+    "static/media/logo.svg": "/http//:mangeshPrajapati.github.io/codeEditor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http//:mangeshPrajapati.github.io/codeEditor/index.html",
+    "main.2b94c69b.css.map": "/http//:mangeshPrajapati.github.io/codeEditor/static/css/main.2b94c69b.css.map",
+    "main.43ba3183.js.map": "/http//:mangeshPrajapati.github.io/codeEditor/static/js/main.43ba3183.js.map",
+    "787.da2546c4.chunk.js.map": "/http//:mangeshPrajapati.github.io/codeEditor/static/js/787.da2546c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b94c69b.css",
+    "static/js/main.43ba3183.js"
+  ]
+}
